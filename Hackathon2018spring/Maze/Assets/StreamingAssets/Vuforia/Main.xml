@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="toy123" size="0.150000 0.112500" />
+    <ImageTarget name="military-tank-6" size="0.150000 0.074625" />
+    <ImageTarget name="cardraw12" size="0.150000 0.098556" />
+    <ImageTarget name="cardraw" size="0.150000 0.098556" />
+    <ImageTarget name="semi_truck_outline_drawing_300_wm" size="0.150000 0.150000" />
+    <ImageTarget name="maze" size="0.150000 0.095000" />
+    <ImageTarget name="Fashion_Nova_09-06-17-369" size="0.150000 0.225030" />
+    <ImageTarget name="car" size="0.150000 0.099818" />
+  </Tracking>
+</QCARConfig>
